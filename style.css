@@ -1,0 +1,136 @@
+/* position */
+/*  */
+
+/* .component-rapper {
+  width: 460px;
+}
+.component-rapper a {
+  font-size: 26px;
+  color: blue;
+  font-weight: 14px;
+  text-decoration: blue;
+}
+.component-rapper img {
+  width: 200px;
+  height: 250px;
+  display: inline-block;
+} */
+/* .trieuvy {
+  width: 340px;
+}
+.trieuvy .imgs {
+  width: 100%;
+  height: 400px;
+  background-image: url(./img/quynh\ mai\ 1.jpg);
+  background-size: cover;
+  background-repeat: 10px;
+}
+.trieuvy a {
+  font-size: 26px;
+  color: blue;
+  font-weight: 14px;
+  text-decoration: blue;
+  display: block;
+  padding-top: 10px;
+}
+.trieuvy p {
+  font-size: 20px;
+  color: burlywood;
+}
+.trieuvy ul {
+  list-style-type: none;
+  padding: 0px;
+  margin-top: 5px 0;
+}
+.trieuvy li {
+  border-top: 1px solid blanchedalmond;
+  padding: 0;
+}
+.trieuvy h3 {
+  border-left: 4px solid orange;
+} */
+/* .garent {
+  background-color: orange;
+  margin-top: 50px;
+  margin-left: 50px;
+  height: 300px;
+  position: relative;
+}
+.garent .child1 {
+  width: 100px;
+  height: 100px;
+  background-color: orangered;
+  position: absolute;
+  z-index: 3;
+}
+.garent .child2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: 1;
+}
+.garent .child3 {
+  width: 100px;
+  height: 100px;
+  background-color: cornsilk;
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  z-index: 2;
+} */
+.parent {
+  width: 850px;
+  height: 300px;
+  background-image: url(./img/bia.jpg);
+  position: relative;
+  margin: auto;
+  border-radius: 1%;
+  background-size: cover;
+}
+.parent .bt1 {
+  position: absolute;
+  left: 700px;
+  bottom: 10px;
+}
+.parent .anhdaidien {
+  width: 150px;
+  height: 150px;
+  background-image: url(./img/quynh\ mai\ 2.jpg);
+  background-size: cover;
+  border-radius: 50%;
+  border: 7px solid ghostwhite;
+  position: relative;
+  top: 50%;
+  left: 42%;
+}
+.parent .anhdaidien .bt2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 70%;
+  left: 80%;
+  border-radius: 50%;
+}
+.parent2 {
+  width: 800px;
+  height: 200px;
+  margin: auto;
+}
+.name {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 25px;
+}
+.parent2 a {
+  text-align: center;
+  text-decoration: blue;
+  display: block;
+}
+.parent2 .ke {
+  border-top: 1px solid orange;
+  margin: 10px;
+}
